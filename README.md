@@ -5,7 +5,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 ## WEEK 1:
 
 -We are introduced to the subject by the professor
--The professor likes One Punch Man
+-The professor likes OnePunch Man
 -
 
 ## WEEK 2:
@@ -15,7 +15,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 
 ## WEEK 3:
 
--The assignment about superman's validity shows that it is true and superman doesn't exist (Onepunch Man is better anyways)
+-The assignment about superman's validity shows that it is true and superman doesn't exist (OnePunch Man is better anyways)
 -
 
 ## WEEK 4:
