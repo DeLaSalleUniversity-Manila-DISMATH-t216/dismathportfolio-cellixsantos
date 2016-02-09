@@ -45,7 +45,9 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 ## Week 3:
 - During this week, I was introduced to a topic called **Rules of Inference**.
 - The Rules of Inferences are: Modus Ponnens, Modus Tollens, Hypothetical Syllogism, Disjunctive Syllogism, Addition, Simplification, Conjunction, and Resolution.
-- ### RULES OF INFERENCE TABLE   
+
+### RULES OF INFERENCE TABLE   
+
 |  **TYPE**  |  **RULE OF INFERENCE**  |  **TAUTOLOGY**  |
 | -------: | :--------------: | :--------- |
 |  _Modus Ponens_  |  p, p → q ∴ q  |  (p ∧ (p → q)) → q  |
@@ -56,6 +58,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 |  _Simplification_  |  p ∧ q ∴ p  |  (p ∧ q) → p  |
 |  _Conjunction_  |  p, q ∴ p ∧ q  |  ((p) ∧ (q)) → (p ∧ q)  |
 |  _Resolution_  |  p ∨ q, ¬p ∨ r ∴ q ∨ r  |  ((p ∨ q) ∧ (¬p ∨ r)) → q ∨ r  |
+
 - We used the different rules of inferences to solve problems such as our homework wherein we have to prove "*Superman doesn't exist!*".
 - Our professor also discussed about the different **Methods of Proof**.
 
