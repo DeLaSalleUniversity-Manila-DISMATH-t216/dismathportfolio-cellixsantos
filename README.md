@@ -18,17 +18,13 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 | →               | Conditional           | if, then  | if val(p) ≤ val(q) = 1, otherwise 0           | p → q ≡  ¬p v q               |
 | ↔               | Biconditional         | iff       | if val(p) equals val(q) = 1, otherwise 0      | p ↔ q ≡ (p → q) ∧ (q → p)     |
 
-- I learned about a new topic in DISMATH called **Logical Equivalences**.
-- I was introduced to the different kinds of laws used in Logical Equivalences.
-- These laws are: Identity, Domination, Negation, Double Negation, Idempotent, Commutative, Associative, Distributive, De Morgan's, and Absorption.
-- I've also learned about **Propositional Logic** and **Quantifiers**. 
-- Propositional Logic deals with proposition as a whole. (Subject + Predicate)
-- Quantifiers indicates the generality of an open sentence in which a variable occurs.
-- Quantifiers have two classifications, one being Existential Quantifiers (∃x) which means "There exist" and the other being Universal Quantifiers (∀x) which means "For all".
+
 ## Week 2:
 
 ### LOGICAL EQUIVALENCES
 
+ I learned about a new topic in DISMATH called **Logical Equivalences**.
+ 
 |  **LAW**  |  **EQUIVALENCE**  |
 | :------: | :-----------------------------: |
 |  _Identity Laws_  |  p ∨ F ≡ T  ;;  p ∧ F ≡ T  |
@@ -42,9 +38,15 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 |  _De Morgan's Laws_  |  ¬(p ∧ q) ≡ ¬p ∨ ¬q  ;;  ¬(p ∨ q) ≡ ¬p ∧ ¬q  |
 |  _Absorption Laws_  |  p ∨ (p ∧ q) ≡ p  ;;  p ∧ (p ∨ q) ≡ p  |
 
+- I also learned about **Propositional Logic** and **Quantifiers**. 
+- Propositional Logic deals with proposition as a whole. (Subject + Predicate)
+- Quantifiers indicates the generality of an open sentence in which a variable occurs.
+- Quantifiers have two classifications, one being Existential Quantifiers (∃x) which means "There exist" and the other being Universal Quantifiers (∀x) which means "For all".
+- I was tought how to use the implication equivalence "p → q ≡  ¬p v q" in evaluating
+
 ## Week 3:
 - During this week, I was introduced to a topic called **Rules of Inference**.
-- The Rules of Inferences are: Modus Ponnens, Modus Tollens, Hypothetical Syllogism, Disjunctive Syllogism, Addition, Simplification, Conjunction, and Resolution.
+- I was tought about arguments and to see if they are valid or a fallacy
 
 ### RULES OF INFERENCE TABLE   
 
@@ -59,9 +61,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 |  _Conjunction_  |  p, q ∴ p ∧ q  |  ((p) ∧ (q)) → (p ∧ q)  |
 |  _Resolution_  |  p ∨ q, ¬p ∨ r ∴ q ∨ r  |  ((p ∨ q) ∧ (¬p ∨ r)) → q ∨ r  |
 
-- We used the different rules of inferences to solve problems such as our homework wherein we have to prove "*Superman doesn't exist!*".
-- Our professor also discussed about the different **Methods of Proof**.
 
 ## WEEK 4:
 
--Soon
+- Our professor discussed about the different **Methods of Proof**.
