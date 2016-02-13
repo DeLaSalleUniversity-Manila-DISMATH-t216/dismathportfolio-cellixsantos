@@ -65,6 +65,9 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 ## WEEK 4:
 
 - Our professor discussed about the different **Methods of Proof**.
+
+### Methods of Proof
+
 |  **TYPE**  |  **Way to solve**  |
 | -------: | :--------------: |
 |  _Direct Proof_  |  1. Assume that p is true  |
@@ -76,3 +79,4 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 |  _Proof by Contradiction_  |  1. Assume that the premise is not true |
 |   |  2. Show that 1. will end up in a contradiction |
 |  _Proof by Equivalence_  |  Prove that p → q and q → p is true using any of the previous methods of proof|
+|
