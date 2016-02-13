@@ -65,3 +65,14 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 ## WEEK 4:
 
 - Our professor discussed about the different **Methods of Proof**.
+|  **TYPE**  |  **Way to solve**  |
+| -------: | :--------------: |
+|  _Direct Proof_  |  1. Assume that p is true  |
+|   |  2. Show that q is true (based on 1.)  |
+|  _Proof by Contraposition_  |  1. Assume ¬q is true |
+|    |  2. Show that ¬p is also true |
+|  _Vacuous Proof_  |  Show that the p is false to make p → q true|
+|  _Trivial proof_  |  Show that q is true, it follows that p → q is also true  |
+|  _Proof by Contradiction_  |  1. Assume that the premise is not true |
+|   |  2. Show that 1. will end up in a contradiction |
+|  _Proof by Equivalence_  |  Prove that p → q and q → p is true using any of the previous methods of proof|
