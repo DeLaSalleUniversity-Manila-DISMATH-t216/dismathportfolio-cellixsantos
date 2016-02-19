@@ -27,7 +27,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
  
 |  **LAW**  |  **EQUIVALENCE**  |
 | :------: | :-----------------------------: |
-|  _Identity Laws_  |  p ∨ F ≡ T  ;;  p ∧ F ≡ T  |
+|  _Identity Laws_  |  p ∨ F ≡ p  ;;  p ∧ F ≡ p  |
 |  _Domination Laws_  |  p ∨ T ≡ T  ;;  p ∧ F ≡ F  |
 |  _Negation Laws_  |  p ∨ ¬p ≡ T  ;;  p ∧ ¬p ≡ F  |
 |  _Double Negation Law_  |  ¬(¬p) ≡ p  |
