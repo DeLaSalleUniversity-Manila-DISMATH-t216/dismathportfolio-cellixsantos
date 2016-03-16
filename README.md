@@ -5,6 +5,10 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 ## WEEK 1:
 
 - We are introduced to the subject by the professor
+- He talked about what is a proof
+- A proof of a proposition is a chain of logical deductions leading to the proposition from a base set of axioms
+- Proposition is a statement which is either true or false
+- And an axiom is a statement that is self true
 - We were taught about lots of 'P's and 'Q's
 - The subject was very confusing
 - I was tought about **Logical Connectives**.
@@ -80,3 +84,22 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 |   |  2. Show that 1. will end up in a contradiction |
 |  _Proof by Equivalence_  |  Prove that p → q and q → p is true using any of the previous methods of proof|
 |
+
+## WEEK 5:
+
+### Mathematical Induction
+-P(1), P(2), P(3), ... ,P(k), P(k+1)
+Induction step
+1.Basis
+Show to P(1) or P(0) to betrue
+2.Direct proof
+a. Assume P(k) to be true
+b. Show that P(k+1) is also true
+
+## WEEK 6:
+
+## WEEK 7:
+
+## WEEK 8:
+
+## WEEK 9:
