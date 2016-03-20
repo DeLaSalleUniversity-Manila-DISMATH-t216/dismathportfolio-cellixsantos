@@ -140,8 +140,107 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
     - ∑<sup>∞</sup><sub>n = 0</sub> a<sub>n</sub>x<sup>n</sup> </br>
         where _a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, ..._ is a given sequence of constants, and _x_ is a real variable.
 
+-Then we did our quiz on friday which is really hard
+
 ## WEEK 7:
+-I received the score of my quiz and found out I had a really low score so I should work hard for the next one
+-The lessons that were discussed this week
+* **Set theories**
+    -{  ,  ,  ,  }
+     ex. {0,2,4,6...}
+    -Where Ø is an empty set {}
+    -{Ø} is a set with an empty set and is not the same as Ø
+    -Union is all the elements in 2 sets
+    -Intersection is the common elements in the 2 sets
+    -Complement is the elements not in a set
+    -Symmetric difference is elements which are not common within the 2 sets
 
+* **SET IDENTITIES TABLE**
+
+|  **LAW**  |  **IDENTITY**  |
+| :------: | :-----------------------------: |
+|  Identity Laws  |  A ⋂ U ≡ A  <br>  A ⋃ ∅ ≡ A  |
+|  Domination Laws  |  A ⋃ U ≡ U  <br>  A ⋂ ∅ ≡ ∅  |
+|  Idempotent Laws  |  A ⋃ A ≡ A  <br>  A ⋂ A ≡ A  |
+|  Complementation Law  |  (A¯)‾ ≡ A  |
+|  Commutative Laws  |  A ⋃ B ≡ B ⋃ A  <br>  A ⋂ B ≡ B ⋂ A  |
+|  Associative Laws  |  A ⋃ (B ⋃ C) ≡ (A ⋃ B) ⋃ C  <br>  A ⋂ (B ⋂ C) ≡ (A ⋂ B) ⋂ C  |
+|  Distributive Laws  |  A ⋃ (B ⋂ C) ≡ (A ⋃ B) ⋂ (A ⋃ C) <br>  A ⋂ (B ⋃ C) ≡ (A ⋂ B) ⋃ (A ⋂ C)  |
+|  De Morgan's Laws  |  (A ⋂ B)‾ ≡ A‾ ⋃ B‾  <br>  (A ⋃ B)‾ ≡ A‾ ⋂ B‾  |
+|  Absorption Laws  |  A ⋃ (A ⋂ B) ≡ A  <br>  A ⋂ (A ⋃ B) ≡ A  |
+|  Complement Laws  |  A ⋃ A‾ ≡ U  <br>  A ⋂ A‾ ≡ ∅  |
+
+* **SUBSETS ⊆**
+   -is a set that can be made from another set where they have the same elements
+* **POWER SET P( )**
+   -is a set of all possible subsets
+* **CARDINALITY | |**
+   -is the number of elements a set contains
+   -duplicates of a element in a set is not counted
+   -If the cardinaly is too high or infinite ex. cardinality of all natural numbes |ℕ| we use aleph-naught ![Image](https://upload.wikimedia.org/math/b/e/4/be4c703ed73456618ed283b892c6715a.png)
+
+* **FUNCTIONS**
+  - Let A and B be sets. A function f from A to B is an assignment of exactly one element of B to each element of A.
+  -  Functions are also called MAPPINGS or TRANSFORMATIONS.
+    - f: A to B </br>
+       A: domain </br>
+       B: co-domain
+    - Range - actually occuring values
+    - IMAGE
+      - If _f(a) = b_, _b- is the image of _A_.
+      - The range of _f_ is the set of all images of elements of _a_.
+
+* **TYPES OF FUNCTIONS**
+    - One - to - one Function (Injection)
+      - like the name implies only one element of x can be assigned to y and vise versa
+    - Onto Function (Surjective)
+      - functions have equal range & co-domain.
+    - One - to - one Correspondence (Bijection)
+     - function is both one - to - one and onto.
 ## WEEK 8:
-
+-We learned about algorithms one of the most confusing lessons in Dismath
+* **Properties**
+      - INPUT - has input values from a specified set 
+      - OUTPUT - solution to the problem 
+      - DEFINITENESS - defined precisely 
+      - CORRECTNESS - produce the correct output values 
+      - FINITENESS - produce the desired output 
+      - EFFECTIVENESS - perform exactly and in a finite amount of time 
+      - GENERALITY - applicable for all problems of the desired form
+* **PSEUDOCODE**
+   -its like coding what we did in LBYEC71 on paper that can be understood by humans
+   -it has preconditions and postconditions
 ## WEEK 9:
+-We were thought about different algorithms which are Searching, Sorting, and Greedy Algorithms
+*Searching Algorithm*
+  -Used for finding an elemenent in a ordered list
+  -There are 2 types that we learned
+    -Linear Search- Finding the element one by one throughout the list
+    -Binary Search- Comparing middle values of the list until the element is found
+*Sorting Algorithm*
+  - used for assorting elements in increasing order
+    - Bubble Sort - compares the first two elements then interchanging them if they are in the incorrect order.
+    - Insertion Sort - compares the second element with the first and inserts it before the first element if it is less. Otherwise, it is inserted after the first element.
+*Greedy Algorithm*
+  - -an algorithm that starts with the "best" choice at each step to lead to an optimal solution.
+ 
+## WEEK 10:
+-We learned about growth of functions
+- Big-O Notation
+    - Let f and g be functions from R-R; _f(x)_ is _O(g(x))_ if there are constants C and k such that:
+        |f(x)| ≤ C|g(x)| 
+    whenever x > k.
+
+- Big-Omega and Big-Theta Notation
+    - Big-O Notation does not provide a lowerbound for the size of f(x). 
+        - Big-Omega (Big-Ω) - lower bound
+        - Big-Theta (Big-Θ) - both upper and lower bound
+
+- Algorithm Time Complexity - can be expressed in terms of the number of operations used by the algorithm when the input has a particular size.
+
+- Division and Modulo Operator
+  - let a be an integer and d positive integer. Then there is a unique Q and r with 0 ≤ r < d such that a = dQ + r
+  - Q = a div d
+  - r = a mod d
+
+-We did our second quiz on friday
