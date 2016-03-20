@@ -143,6 +143,7 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 -Then we did our quiz on friday which is really hard
 
 ## WEEK 7:
+
 -I received the score of my quiz and found out I had a really low score so I should work hard for the next one
 -The lessons that were discussed this week
 * **Set theories**
@@ -197,7 +198,9 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
       - functions have equal range & co-domain.
     - One - to - one Correspondence (Bijection)
      - function is both one - to - one and onto.
+
 ## WEEK 8:
+
 -We learned about algorithms one of the most confusing lessons in Dismath
 * **Properties**
       - INPUT - has input values from a specified set 
@@ -210,7 +213,9 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
 * **PSEUDOCODE**
    -its like coding what we did in LBYEC71 on paper that can be understood by humans
    -it has preconditions and postconditions
+
 ## WEEK 9:
+
 -We were thought about different algorithms which are Searching, Sorting, and Greedy Algorithms
 *Searching Algorithm*
   -Used for finding an elemenent in a ordered list
@@ -223,8 +228,9 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
     - Insertion Sort - compares the second element with the first and inserts it before the first element if it is less. Otherwise, it is inserted after the first element.
 *Greedy Algorithm*
   - -an algorithm that starts with the "best" choice at each step to lead to an optimal solution.
- 
+
 ## WEEK 10:
+
 -We learned about growth of functions
 - Big-O Notation
     - Let f and g be functions from R-R; _f(x)_ is _O(g(x))_ if there are constants C and k such that:
