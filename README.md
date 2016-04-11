@@ -250,3 +250,94 @@ dismathportfolio-cellixsantos created by Classroom for GitHub
   - r = a mod d
 
 -We did our second quiz on friday
+
+## Week 11:
+
+-No classes due to Holy week
+
+## Week 12:
+
+-We learned about graph theory G = (V, E)
+- **Hand shaking theory** 
+  - 2e = ∑deg(v)
+- **Paths and Cicuits**
+  -Euler Circuit - a circuit where you can pass all edges and return to the starting point (Has an even degree of edges in each vertex)
+  -Euler Path - a path where you can pass all edges but will not end in the starting point (Has exactly 2 nodes with an odd degree where either is the starting point and the other must be the endpoint
+  -Hamilton Circuit - a circuit where you can pass all nodes and return to the starting point
+  -Hamilton Path - a path where you can pass all nodes but not being able to return to the starting point
+
+- **Matrices of Graphs** 
+  - 1 for adjacent; 0 for non-adjacent
+- **Incidence of Matrices** 
+  - a matrix between the vertices and the edges.
+
+- **Isomorphism of Graphs** 
+  - a simple graph is isomorphic if it has a one-to-one and onto function.
+  - i.e. vertices change positions and still have the same connection as before.
+
+- **Planar Graph**
+  - Graphs that can be drawn in the plane without edges having to cross.
+  - Euler's Formula: r = e - v + 2
+    - r - regions
+    - e - edges
+    - v - vertices
+  - Euler's Characteristic: ℵ = r - |e| + |v| where ℵ = 2
+
+- **Homeomorphic Graphs**
+  - Graphs are called homeomorphic if they can be obtained from the same graph by a sequence of elementary subdivisions.
+  - *Elementary Subdivision* - If a graph is planar, so will be any graph obtained by removing an edge and adding a new vertex together with edges.
+  - *Kuratowski's Theorem* - a graph is nonplanar if and only if it contains a subgraph homeophobic to K3,3 and K5.
+
+## Week 13:
+- **Graph Coloring** - assignment of a color to each vertex of the graph so that no two adjacent vertices are assigned the same color.
+  - *Four Color Theorem* - the chromatic number of a planar graph is no greater than four.
+
+- **Trees**
+  - A connected undirected graph with no simple circuits.
+  - A data structure that emulates a heirarchical tree structure with a set of linked nodes.
+  - Used to construct efficient algorithms for locating an item in a list.
+  - Multiple *Trees* are called **Forest**.
+  - *Rooted Tree* - a tree in which one vertex has been designated as the root and every edge is directed away from the root.
+    - Root - the beginning of a tree
+    - Internal vertices - every vertex before the leaves
+    - Leaves - vertices with no descendants
+  - *M-ary tree*
+    - A rooted tree is called an m-ary tree if every internal vertex has no more than m children.
+    - An m-ary tree with m = 2 is called a *binary tree*
+
+- **Modeling Computations**
+  - *Language and Grammars*
+    - Grammars - used to generate the words of a language and to determine whether a word is in a language
+    - Compiler - reads a program written in a source language and translate it into an equivalent program in a target language.
+      - Formal Language - automatic translation of one language to another
+        - well defined set of rules
+
+- **Alphabet & String**
+    - common way to talk about words, numbers, etc.
+
+- **Automata Theory**
+    - Studies the law of computation
+    - Finite Automata - simplest model of automata
+      - initial state
+      - final state
+      - dead/stuck state
+      - transition state
+
+- **Lexical Analysis**
+    - process where the stream of characters making up the source program into a sequence of "words" that make up the source code.
+
+- **Finite State Machine**
+  - S: Finite set of states
+  - I: Finite input alphabet
+  - O: Finite output alphabet
+  - f: Transition function
+  - g: Output function
+  - s<sub>0</sub>: Initial state
+
+- **Turing Machine**
+    - Alan Turing, the father of computer science.
+    - "Imitation Game" movie based on his life.
+
+## Week 14:
+-Finals week
+-Hope I pass Dismath
